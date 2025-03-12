@@ -10,10 +10,7 @@ public class Interface {
     public void dialog() {
         JOptionPane.showMessageDialog(null, "Hola Examen!");
  }
-    /**
-     * Dialogo con mensaje de error
-     */
-    public void error() {
-        JOptionPane.showMessageDialog(null, "Error", "Error", JOptionPane.ERROR_MESSAGE);
-    }
+
 }
+
+//ahora el bus está arreglado
